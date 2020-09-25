@@ -157,10 +157,59 @@ No known bugs at this time.
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
-David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
-David Hincapié - [Github](https://github.com/dalejohgi) / [Twitter](https://twitter.com/disartDave)
+David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)  
+David Hincapié - [Github](https://github.com/dalejohgi) / [Twitter](https://twitter.com/disartDave)  
 Marisol Ramirez - [Github](https://github.com/Marisol2201) / [Twitter](https://twitter.com/disartDave)
 
 Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
+
+
+----
+
+* Last part
+
+# 0x06. AirBnB clone - Web dynamic
+
+## Resources:books:
+Read or watch:
+
+* Rest API concept page
+* [Selector](https://jquery-tutorial.net/selectors/using-elements-ids-and-classes/)
+* [Get and set content](https://jquery-tutorial.net/dom-manipulation/getting-and-setting-content/)
+* [Manipulate CSS classes](https://jquery-tutorial.net/dom-manipulation/getting-and-setting-css-classes/)
+* [Manipulate DOM elements](https://jquery-tutorial.net/dom-manipulation/the-append-and-prepend-methods/)
+* [Document ready](https://learn.jquery.com/using-jquery-core/document-ready/)
+* [Introduction](https://jquery-tutorial.net/ajax/introduction/)
+* [GET & POST request](https://jquery-tutorial.net/ajax/the-get-and-post-methods/)
+* [HTTP access control (CORS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
+
+---
+
+## Learning Objectives:bulb:
+What you should learn from this project:
+
+* How cool it is to request your own API
+* How to modify an HTML element style
+* How to get and update an HTML element content
+* How to modify the DOM
+* How to make a GET request with jQuery Ajax
+* How to make a POST request with jQuery Ajax
+* How to listen/bind to DOM events
+* How to listen/bind to user events
+
+---
+
+### 0. Last clone! 
+### 1. Cash only
+### 2. Select some Amenities to be comfortable!
+### 3. API status
+### 4. Fetch places
+### 5. Filter places by Amenity
+
+---
+
+## Authors third part
+- **Marisol Ramírez Henao** - [Marisol](https://github.com/Marisol2201)
+- **David Alejandro Hincapié** - [David](https://github.com/dalejohgi)
