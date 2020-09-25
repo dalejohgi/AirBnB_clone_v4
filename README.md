@@ -175,7 +175,6 @@ Public Domain. No copy write protection.
 ## Resources:books:
 Read or watch:
 
-* Rest API concept page
 * [Selector](https://jquery-tutorial.net/selectors/using-elements-ids-and-classes/)
 * [Get and set content](https://jquery-tutorial.net/dom-manipulation/getting-and-setting-content/)
 * [Manipulate CSS classes](https://jquery-tutorial.net/dom-manipulation/getting-and-setting-css-classes/)
@@ -210,6 +209,6 @@ What you should learn from this project:
 
 ---
 
-## Authors third part
+## Authors last part
 - **Marisol Ramírez Henao** - [Marisol](https://github.com/Marisol2201)
 - **David Alejandro Hincapié** - [David](https://github.com/dalejohgi)
