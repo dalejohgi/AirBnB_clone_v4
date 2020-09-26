@@ -17,8 +17,7 @@ $( document ).ready(function () {
     });
     $.ajax({
         type: 'GET',
-        crossDomain: true,
-        url: 'http://127.0.0.1:5001/api/v1/status/',
+        url: 'http://0.0.0.0:5001/api/v1/status/',
         success: function (data) {
             if (data.status === 'OK') {
                 $('#api_status').addClass('available');
