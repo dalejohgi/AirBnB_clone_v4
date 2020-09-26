@@ -1,3 +1,4 @@
+#!/usr/bin/node
 $( document ).ready(function () {
     const amenitiesDic = {};
     $("INPUT:checkbox").change(function () {
@@ -14,4 +15,17 @@ $( document ).ready(function () {
             $('.amenities h4').text(Object.values(amenitiesDic).join(', '));
         } 
     });
+    $.ajax({
+        type: 'GET',
+        crossDomain: true,
+        url: 'http://127.0.0.1:5001/api/v1/status/',
+        success: function (data) {
+            if (data.status === 'OK') {
+                $('#api_status').addClass('available');
+            } else {
+                $('#api_status').removeClass('available');
+            }
+        }
+    });
 });
+
